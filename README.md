@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @calapanio
-- 👀 I’m interested in everything
+- 👀 I’m interested in nothing
 - 🌱 I’m currently learning c++, java, c#
 - 💞️ I’m looking to collaborate on nothaing or anything
 - 📫 How to reach me dont  or do.
